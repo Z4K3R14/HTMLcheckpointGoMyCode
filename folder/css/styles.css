@@ -1,0 +1,29 @@
+a:visited {
+  color: tomato;
+}
+
+
+  a:link {
+    color: tomato;
+}
+div{
+  height: 150px;
+  width: 90%;
+  background-color: coral;
+}
+.rounded {
+  border-radius: 15px;
+  background-color: cornflowerblue;
+}
+first-line {
+  letter-spacing: 4px;
+  word-spacing: 4px;
+}
+li {
+  display: inline;
+} 
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
